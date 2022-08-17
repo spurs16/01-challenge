@@ -190,13 +190,14 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/*Changed from .footer class to footer to reflect semantic changed in index*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
